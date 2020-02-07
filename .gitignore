@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+.next
+
+# Dist
+dist
+
+# OS
+.DS_Store
+
+# Development Environment
+.vscode
+
+# Logs
+runtime.log
